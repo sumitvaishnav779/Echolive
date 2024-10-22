@@ -12,3 +12,7 @@
 html, body { font-size: 16px;}
 
 .d-hidden{display: none;}
+
+.accordion-header.active img { transform: rotate(-90deg); }
+
+.nested-accordion-header.active img { transform: rotate(90deg); }

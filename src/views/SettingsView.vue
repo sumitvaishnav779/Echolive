@@ -41,7 +41,7 @@ import Sidebar from '../components/Sidebar.vue'
                               </div>
                               <!-- Profile Image -->
                             <div class="flex flex-col items-center pb-6"> 
-                              <div class="w-32 h-32 bg-black rounded-full border-2 dark:border-yellow-300 border-black flex justify-center items-center overflow-hidden custom-mt-81 z-10">
+                              <div class="w-32 h-32 bg-black rounded-full border-2 dark:border-yellow-300 border-black flex justify-center items-center overflow-hidden mt-[-70px] z-10">
                                   <img src="../../assets/img/upload-profile-icon.png" alt="">
                               </div>
                               <p class="mt-2 text-xs md:text-base font-semibold text-center">Upload Your Profile Image - Recommended Size 80px x 80px</p>
