@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ body { font-family:"Montserrat", sans-serif; font-size:16px; line-height: 18px;  background:rgb(245,222,127); background:linear-gradient(137deg, rgba(245,222,127,1) 35%, rgba(157,125,66,1) 100%); } 
+.dark body { background:#000}
+.container {
+    max-width: 1386px!Important;
+    padding: 0 15px;
+}
+
+html, body { font-size: 16px;}
+
+.d-hidden{display: none;}
